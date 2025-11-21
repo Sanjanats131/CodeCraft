@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">✨ SaaS Code Editor - Next.js 15 ✨</h1>
 
 ![Demo App](/public/screenshot-for-readme.png)
@@ -41,7 +40,3 @@ LEMON_SQUEEZY_WEBHOOK_SECRET=
 ```shell
 npm run dev
 ```
-=======
-# CodeCraft
-CodeCraft is a customizable online IDE that supports multiple languages, smart output handling, and secure access, offering an efficient and user-friendly coding experience for developers and learners.
->>>>>>> origin
